@@ -8,7 +8,8 @@ Thanks for snippets and theory :)
 - https://www.yumpu.com/en/document/read/55059569/hooking-nirvana
 - https://lucasg.github.io/2017/10/15/Api-set-resolution/
 - https://github.com/zodiacon/WindowsInternals/blob/master/APISetMap/APISetMap.cpp
-
+- https://blog.quarkslab.com/runtime-dll-name-resolution-apisetschema-part-i.html
+- https://blog.quarkslab.com/runtime-dll-name-resolution-apisetschema-part-ii.html
 
 example output
 ```
