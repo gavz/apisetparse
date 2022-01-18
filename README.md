@@ -6,6 +6,8 @@ Thanks for snippets and theory :)
 - https://xz.aliyun.com/t/7019   (Main functionality)
 - https://gist.github.com/lucasg/9aa464b95b4b7344cb0cddbdb4214b25
 - https://www.yumpu.com/en/document/read/55059569/hooking-nirvana
+- https://lucasg.github.io/2017/10/15/Api-set-resolution/
+- https://github.com/zodiacon/WindowsInternals/blob/master/APISetMap/APISetMap.cpp
 
 
 example output
